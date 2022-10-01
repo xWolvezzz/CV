@@ -1,0 +1,27 @@
+*
+.header {
+  background-color: white;
+  text-align: center;
+  padding: 0px;
+}
+
+p {
+  padding: 10px;
+  background-color: lightseagreen;
+}
+li {
+  padding: 10px;
+  color: lightseagreen;
+}
+
+div {
+  width: 750px;
+  margin: inherit;
+  padding: 0px;
+  text-align: center;
+  border: 3px solid lightseagreen;
+  margin-left: 450px;
+  background-color: white;
+}
+
+
